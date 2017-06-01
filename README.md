@@ -1,5 +1,8 @@
 # NamePlate
 a little desktop name plate
+![Name Plate Prototype](NamePlate_02.jpg)
+
+![Laser-Cutter](NamePlate_01.jpg)
 
 ## Tools and Materials
 * Font: OCR-A (Part of fritzing.org template [downlod it from this page](http://fritzing.org/learning/tutorials/creating-custom-parts/download-fonts-and-templates/))
